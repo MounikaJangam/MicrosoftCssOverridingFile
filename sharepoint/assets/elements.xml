@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="InternetCss"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="ccb28933-c660-47fe-8c6e-5b4260e0df06"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
